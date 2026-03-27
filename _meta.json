@@ -1,0 +1,7 @@
+{
+  "name": "cross-topic-context",
+  "version": "1.0.0",
+  "description": "Real-time context bridge across Telegram forum topics. Rolling buffer of recent cross-topic decisions and actions for instant continuity between sessions.",
+  "author": "jwitkowski17",
+  "license": "MIT-0"
+}
