@@ -44,10 +44,10 @@ Examples:
 Enabled 5 cron jobs. Alert routing wired to Daily Briefing topic.
 
 ## [14:45] Strategy & Revenue
-John confirmed $500k Year 1 target. Adjusted quarterly milestones.
+Confirmed annual revenue target. Adjusted quarterly milestones.
 
 ## [14:51] Website
-Started V2 homepage copy review. John wants hero section rewritten.
+Started homepage copy review. Hero section needs rewrite.
 ```
 
 Rules:
